@@ -15,7 +15,7 @@
 
     <groupId>com.github.koraktor</groupId>
     <artifactId>mavanagaiata</artifactId>
-    <version>0.7.1-sn-SNAPSHOT</version>
+    <version>0.7.1-sn</version>
     <packaging>maven-plugin</packaging>
 
     <prerequisites>
@@ -23,7 +23,7 @@
     </prerequisites>
 
     <name>Mavanagaiata</name>
-    <description>Maven plugin providing project information from Git</description>
+    <description>Maven plugin providing project information from Git (forked)</description>
     <url>http://koraktor.de/mavanagaiata</url>
     <inceptionYear>2011</inceptionYear>
     <licenses>
@@ -34,14 +34,14 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/koraktor/mavanagaiata</url>
-        <connection>scm:git:git://github.com/koraktor/mavanagaiata.git</connection>
-        <developerConnection>scm:git:git://git@github.com:koraktor/mavanagaiata.git</developerConnection>
+        <url>https://github.com/efalive/mavanagaiata</url>
+        <connection>scm:git:git://github.com/efalive/mavanagaiata.git</connection>
+        <developerConnection>scm:git:git://git@github.com:efalive/mavanagaiata.git</developerConnection>
     </scm>
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/koraktor/mavanagaiata/issues</url>
+        <url>https://github.com/efalive/mavanagaiata/issues</url>
     </issueManagement>
 
     <mailingLists>
